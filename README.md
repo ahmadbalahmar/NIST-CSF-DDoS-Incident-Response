@@ -64,7 +64,7 @@ Prioritize restoring critical network services, verify stability, and then resto
 
 ## 6. Project Documents
 
-- [Incident Response Report](01-Incident-Report/NIST-CSF-DDoS-Incident-Report.pdf)
+- [Incident Response Report](01-Incident-Report/NIST-CSF-Incident-Report.pdf)
 - [Lessons Learned](02-Lessons-Learned/Lessons-Learned-DDoS.pdf)
 
 ## 7. Lessons Learned
